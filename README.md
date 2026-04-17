@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sullivan Martin</h1>
+<h2 align="center"> Computer Systems, Networks and Odoo enthusiast</h2>
 <h3 align="center">Data Engineer & Analyst · Beso Beach · Barcelona</h3>
 
 <p align="center">
